@@ -1,1 +1,1 @@
-# ROS-Sample-Workcell-MoveIt-Package
+# ROS Sample Workcell MoveIt Package
